@@ -299,5 +299,9 @@ if __name__ == '__main__':
         pygame.quit()
 
 ```
+## Output:
+![Screenshot 2024-10-04 102507](https://github.com/user-attachments/assets/9330d5e6-aba4-4ad0-abc1-3f73898a87cd)
+![Screenshot 2024-10-04 102352](https://github.com/user-attachments/assets/46477262-31cd-4323-913d-0c4d08039b5f)
+
 ## Result:
 This program is an excellent example of using Python for simple graphical games. It combines logic, basic AI, and time tracking to create an engaging memory game.
