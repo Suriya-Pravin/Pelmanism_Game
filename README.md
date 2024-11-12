@@ -1,4 +1,4 @@
-# Pelmanism_Game
+# Ex-11 Mini Project: Pelmanism_Game
 ## Aim:
 This code implements a memory-matching game, also known as "Pelmanism" or simply a memory game. In this version, the game allows a player to compete against an AI to find all matching pairs of animal images on a 4x4 grid. Here's a breakdown of the code and how it implements the game:</br>
 
@@ -33,8 +33,8 @@ To run the game, ensure:
 </br></br>
      a)The assets directory exists with at least eight .png images.</br>
      b)Pygame and Matplotlib libraries are installed.
-## Program:
-```
+## Program Code:
+```py
 import pygame
 import random
 import os
